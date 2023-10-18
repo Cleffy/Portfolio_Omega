@@ -1,0 +1,8 @@
+{
+    "title": "Code-E the Code Bot",
+    "image": "/images/Code-E.png",
+    "alt": "Code-E the Code Bot",
+    "description": "Code-E is a bot that can help you with your code. It uses ChatGPT to evaluate queries given to it.",
+    "github": "https://github.com/Cleffy/Best-Code-Bot-Ever",
+    "live": "https://best-code-bot-ever-6c020fa64dc5.herokuapp.com/"
+}

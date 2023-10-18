@@ -1,0 +1,32 @@
+{
+    "project1": 
+        {
+            "title": "Code-E",
+            "fileLink": "../data/code-e.json"
+        },
+    "project2": 
+        {
+            "title": "MTG-Deck-Builder",
+            "fileLink": "../data/mtg-deck-builder.json"
+        },
+    "project3": 
+        {
+            "title": "ARC",
+            "fileLink": "../data/arc.json"
+        },
+    "project4": 
+        {
+            "title": "CMS-Blogger",
+            "fileLink": "../data/cms-blogger.json"
+        },
+    "project5": 
+        {
+            "title": "Note-Taker",
+            "fileLink": "../data/note-taker.json"
+        },
+    "project6": 
+        {
+            "title": "Weather-Dashboard",
+            "fileLink": "../data/weather-dashboard.json"
+        }
+}
