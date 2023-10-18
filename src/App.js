@@ -30,10 +30,10 @@ function App() {
         <Header />
         <Routes>
           {/* <Route exact path = '/' component={Home} /> */}
-          <Route exact path = '/' component={AboutMe} />
-          <Route exact path = '/portfolio' component={Portfolio} />
-          <Route exact path = '/contact' component={Contact} />
-          <Route exact path = '/resume' component={Resume} />
+          <Route exact path = '/' element={<AboutMe />} />
+          <Route exact path = '/portfolio' element={<Portfolio />} />
+          <Route exact path = '/contact' element={<Contact />} />
+          <Route exact path = '/resume' element={<Resume />} />
         </Routes>
         <Footer />
       </Router>
