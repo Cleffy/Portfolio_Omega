@@ -1,6 +1,7 @@
 import Navigation from './navigation';
 
 /**
+ * @description Header component
  * Header
  *  - Name
  *  - Navigation
