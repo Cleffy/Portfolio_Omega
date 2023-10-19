@@ -2,12 +2,13 @@
   ## Description
   Kevin Smith's Portfolio  
   ## Table of Contents
-  [Installation](#Installation)  
+  [Usage](#Usage)  
   [License](#License)  
   [Contact](#Contact)  
   [References](#References)  
-  ## <div id="Installation">Installation</div>
-  Navigate to site  
+  ## <div id="Usage">Usage</div>
+  https://portfolio-omega-ea56788ae1a1.herokuapp.com/
+  
   ## <div id="License">License</div>
   
 Copyright 2023 Kevin Smith
