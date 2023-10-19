@@ -8,7 +8,8 @@
   [References](#References)  
   ## <div id="Usage">Usage</div>
   https://portfolio-omega-ea56788ae1a1.herokuapp.com/
-  
+  ![Portfolio](/assets/PortfolioPreview.png)
+
   ## <div id="License">License</div>
   
 Copyright 2023 Kevin Smith
